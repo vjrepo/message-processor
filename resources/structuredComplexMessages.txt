@@ -1,0 +1,6 @@
+{"simpleSaleMessage":{"productType":"laptop","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
+{"simpleSaleMessage":{"productType":"ipad","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
+{"simpleSaleMessage":{"productType":"mobile","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
+{"simpleSaleMessage":{"productType":"camera","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
+{"simpleSaleMessage":{"productType":"desktop","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
+{"simpleSaleMessage":{"productType":"phone","saleValue":12,"messageType":"SIMPLE"},"occurrence":5,"messageType":"COMPLEX"}
